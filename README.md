@@ -118,7 +118,6 @@ The Evaluator checks whether the instructions:
 * Python
 * OpenAI API
 * Gradio
-* Pydantic
 ---
 
 ## 🚀 Installation
